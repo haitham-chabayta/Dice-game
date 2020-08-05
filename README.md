@@ -66,7 +66,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 * [HTML & CSS](https://thenextweb.com/podium/2020/03/05/learn-html-css-in-15-minutes/)
 
 ## Getting Started
-Here is the list of the prerequisites you need and how to install the web application to run it on your own
+Here is the list of the prerequisites you need and how to install the web application.
 
 ### Prerequisites
 
