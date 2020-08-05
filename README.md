@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/haitham-chabayta/Dice-game">
-     <img src="images/logo.png" alt="Logo" width="80" height="80">
+     <img src="ReadMe-images/logo.png" alt="Logo" width="80" height="80">
  </a>
 
   <h3 align="center">Dice game</h3>
@@ -127,4 +127,4 @@ LinkedIn: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
 [issues-url]: https://github.com/haitham-chabayta/Dice-game/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: ReadMe-images/screenshot.PNG
